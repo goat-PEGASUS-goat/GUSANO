@@ -1,2 +1,0 @@
-# GUSANO
-DELPHI
